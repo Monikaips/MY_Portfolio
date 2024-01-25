@@ -20,10 +20,6 @@ As an aspiring web developer, I find joy in transforming ideas into reality thro
 
 I'm currently on the path to completing my education, and I invite you to explore my portfolio to get a glimpse of my skills, projects, and experiences. Each project reflects my dedication to turning concepts into tangible, functional applications.
 
-2. **Project Name 2**
-   ...
-
-Feel free to explore more about each project in the respective sections.
 
 ## Skills
 
